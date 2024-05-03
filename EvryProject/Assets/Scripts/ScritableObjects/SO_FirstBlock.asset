@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b196d77d1494ed940a0d5d66321443f3, type: 3}
+  m_Name: SO_FirstBlock
+  m_EditorClassIdentifier: 
+  effect: {fileID: 1295840013997606, guid: 8486716cb5801814f8482bdd34242b90, type: 3}
+  blockHealt: 0
+  blockSprites: []
